@@ -1,0 +1,7 @@
+[package]
+name = "bme680-hk"
+version = "0.1.0"
+authors = ["pi"]
+edition = "2018"
+
+[dependencies]
